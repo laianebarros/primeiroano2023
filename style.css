@@ -1,0 +1,22 @@
+body {
+    background-color:gainsboro;
+}
+h1 {
+    color:deeppink;
+    font-size: 50px
+    text-aling: center;
+ 
+}
+
+h2{
+    color:deeppink;
+    font-size: 40px
+    text-aling: center; 
+}
+
+
+p{
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+    text-aling: justify;
+}
