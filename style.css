@@ -22,11 +22,11 @@ p{
 } 
 
 .logo  { 
-    width: 200px;
+    width: 500px;
     height: 200px; 
     margin: 2px;/*insere um espaçamento extremo ao elemento,ao redor da borda*/
     padding: 2px;/*define uma distância interna entre um elemento e sua borda*/
-    border: 0.2rem solid #677b3e;
+    border: 0.2rem solid #FF0000;
     border-radius: 20px;
 }
 
