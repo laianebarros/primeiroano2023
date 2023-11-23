@@ -4,14 +4,14 @@ body {
     )
 }
 h1 {
-    color:white;
+    color:rgb(0, 0, 0);
     font-size: 50px
     text-aling: center;
  
 }
 
 h2{
-    color:#8C5C20;
+    color:white;
     font-size: 35px;
     text-align: center;
 }
